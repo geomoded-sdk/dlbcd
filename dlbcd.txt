@@ -1,0 +1,24 @@
+! ===== GOOGLE / YOUTUBE ADS =====
+||googleadservices.com^
+||googlesyndication.com^
+||doubleclick.net^
+||googleads.g.doubleclick.net^
+||pagead2.googlesyndication.com^
+||youtube.com/pagead/
+||youtube.com/api/stats/ads
+||youtube.com/get_video_info?*adformat*
+
+! ===== META ADS (FACEBOOK / INSTAGRAM) =====
+||an.facebook.com^
+||pixel.facebook.com^
+||ads.facebook.com^
+||ads.instagram.com^
+||connect.facebook.net^
+||graph.facebook.com^
+||b-graph.facebook.com^
+
+! ===== RASTREAMENTO E PUBLICIDADE =====
+||facebook.net^
+||facebook.com/tr/
+||instagram.com/api/v1/ads/
+||staticxx.facebook.com^
